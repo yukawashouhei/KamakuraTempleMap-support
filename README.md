@@ -1,0 +1,1 @@
+# KamakuraTempleMap-support
